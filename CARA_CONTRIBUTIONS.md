@@ -1,7 +1,5 @@
 # Cara Li's Contributions to the 50-State Simulation Project
 
-## Cara Li's contributions
-
 I contributed state-legislative redistricting analyses to the [ALARM Project's 50-State Simulation Project](https://github.com/alarm-redist/fifty-states), an open-source effort to make reproducible redistricting simulations available to researchers and the public.
 
 My work covers the full analysis pipeline in R:
